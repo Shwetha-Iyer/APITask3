@@ -13,3 +13,4 @@ Remove duplicates from an array
 Rotate an array by k times and return the rotated array.
 
 Task 1 output can be viewed in console on index.html and Task 2 output can be viewed in console on link.html
+Both outputs can be checked in Firefox.
